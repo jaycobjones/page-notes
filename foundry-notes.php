@@ -5,7 +5,7 @@ Plugin Name: Foundry Notes
 Plugin URI: mailto:jonesjaycob@gmail.com
 Description:  Creates a section for notes page by page.
 Author: Jaycob A. Jones
-Version: 1.1
+Version: 1.1.1.0 <3
 Author URI: mailto://jaycobjones.com
 */
 
