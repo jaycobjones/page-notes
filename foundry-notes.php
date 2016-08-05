@@ -6,7 +6,7 @@ Plugin URI: mailto:jonesjaycob@gmail.com
 Description:  Creates a section for notes page by page.
 Author: Jaycob A. Jones
 Version: 1.0
-Author URI: mailto:jonesjaycob@gmail.com
+Author URI: mailto://jaycobjones.com
 */
 
 /**
